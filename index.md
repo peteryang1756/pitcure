@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ssangyongsports/imgss/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html class="google mmfb" lang="en">
+  <head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssangyongsports/imgss/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <script nonce="75O6QDxCAFkGkbkr2rN6Gw">
+(function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script>
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport">
+    <title>
+      g.co
+    </title>
+    <script src="//www.google.com/js/gweb/analytics/autotrack.js" nonce="75O6QDxCAFkGkbkr2rN6Gw">
+</script>
+    <script nonce="75O6QDxCAFkGkbkr2rN6Gw">
+      new gweb.analytics.AutoTrack({
+        profile: 'UA-12481063-1'
+      });
+    </script>
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Product+Sans:400&amp;subset=latin"
+          rel="stylesheet" nonce="75O6QDxCAFkGkbkr2rN6Gw">
+    <link href="//www.google.com/css/maia.css" rel="stylesheet" nonce="75O6QDxCAFkGkbkr2rN6Gw">
+  </head>
+  <body>
+    <div class="maia-header" id="maia-header">
+      <div class="maia-aux">
+        <h1>
+          <a href="http://www.google.com/"><img alt="Google"
+             src="//www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png"
+             srcset="//www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"></a>
+        </h1>
+        <h2>
+          &nbsp;g.co
+        </h2>
+      </div>
+    </div>
+    <div id="maia-main">
+      <h2>
+        About g.co
+      </h2>
+      <p>
+        You’ve arrived at this page because you typed or linked to “g.co”, Google’s official URL
+        shortcut just for Google websites.
+      </p>
+      <p>
+        Whenever you see a short “g.co” link, you can trust that it will always take you to a
+        Google product or service.
+      </p>
+      <p>
+        You can also use <a href="https://firebase.google.com/docs/dynamic-links/">Firebase Dynamic
+        Links to shorten up public URLs across the web.
+      </p>
+    </div>
+    <div id="maia-signature"></div>
+    <div class="maia-footer" id="maia-footer">
+      <div id="maia-footer-global">
+        <div class="maia-aux">
+          <ul>
+            <li>
+              <a href="http://www.google.com/">Google</a>
+            </li>
+            <li>
+              <a href="http://www.google.com/policies/">Privacy &amp; Terms</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
